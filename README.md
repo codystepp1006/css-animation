@@ -28,9 +28,12 @@ Click the link below, once the webpage has opened up, you can hover over the ear
 
 ## ScreenShot and WEbpage Link
 
+Here is the Link: https://codystepp1006.github.io/css-animation/index.html
+
 ![alt text](<Screenshot 2024-03-22 170622.png>)
 
 ## Sources and Shoutouts
+
 
 coding Artist 10/24/2020 https://www.youtube.com/watch?v=rbsbQmB3_Mc
 
